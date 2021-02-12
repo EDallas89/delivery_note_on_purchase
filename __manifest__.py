@@ -10,6 +10,5 @@
     'depends': ['purchase', 'stock'],
     'data': [
         'views/views.xml',
-        'views/delivery_note_on_purchase_cron.xml',
     ],
 }
